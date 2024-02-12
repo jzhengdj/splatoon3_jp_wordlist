@@ -61,6 +61,14 @@ terms_jp_en = {
     "ダム": "Dam",
     "すじこ": "Highway",
     "トキシラズ": "Factory",
+    "ジムワイパー": "Jim",
+    "デコイ": "Fireworks",
+    "ロボム": "RobotBomb",
+    "ロボットボム": "RobotBomb",
+    "ヒラメ": "flounder",
+    "イグザミナー": "Examiner",
+    "トーピード": "FishBomb",
+
 
     # Add more terms as needed
 }
@@ -104,5 +112,11 @@ terms_en_cn = {
     "Dam": "鲑坝",
     "Highway": "生筋子",
     "Factory": "工房",
+    "Fireworks": "诱饵烟花",
+    "RobotBomb": "小鸡雷",
+    "Flounder": "比目鱼住宅区",
+    "Examiner": "审查者",
+    "FishBomb": "鱼雷",
+
 
 }

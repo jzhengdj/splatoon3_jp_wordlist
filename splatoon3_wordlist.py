@@ -68,6 +68,12 @@ terms_jp_en = {
     "ヒラメ": "flounder",
     "イグザミナー": "Examiner",
     "トーピード": "FishBomb",
+    "キンメダイ": "ArtMuseum",
+    "たけ": "Bamboo",
+    "チャー": "Cha",
+    "カバー": "Cover",
+    "カバ": "Cover",
+
 
 
     # Add more terms as needed
@@ -117,6 +123,11 @@ terms_en_cn = {
     "Flounder": "比目鱼住宅区",
     "Examiner": "审查者",
     "FishBomb": "鱼雷",
+    "ArtMuseum": "金眼鲷美术馆",
+    "Bamboo": "竹狙",
+    "Cha": "狙击枪",
+    "Cover": "掩护",
+
 
 
 }

@@ -103,6 +103,10 @@ terms_jp_en = {
     "ジェパ": "Jetpack",
     "スペシャル": "Special",
     "テッキュウ": "Tekiu",
+    "ヨコヅナ": "Yozuna",
+    "タツ": "Tatsu",
+    "ジョー": "Jo",
+    "グリル": "Grill",
 
     # Add more terms as needed
 }
@@ -180,6 +184,10 @@ terms_en_cn = {
     "Jetpack": "喷气背包",
     "Special": "大招",
     "Tekiu": "铁球鱼",
+    "Yokozuna": "横纲",
+    "Tatsu": "辰龙",
+    "Jo": "巨颚",
+    "Grill": "烤架鱼",
 
     
 }

@@ -87,6 +87,7 @@ terms_jp_en = {
     "ダイバー": "Diver",
     "モグラ": "Mole",
     "カタパッド": "Rubbish",
+    "カタバッド": "Rubbish",
     "カタパ": "Rubbish",
     "コウモリ": "Bat",
     "タマヒロイ": "Thief",

@@ -138,6 +138,11 @@ terms_jp_en = {
     "サメライド": "Shark",
     "サメ": "Shark",
     "ナイスダマ": "NiceBall",
+    "フェス": "Festival",
+    "フェスパワー": "FesPower",
+    "Xパワー": "XPower",
+    "ハナビダム": "FireworksBomb",
+    "ハナビ": "FireworksBomb",
 
 
     # Add more terms as needed
@@ -241,7 +246,8 @@ terms_en_cn = {
     "teioika": "帝王鱿鱼",
     "Shark": "鲨鱼",
     "NiceBall": "nice弹",
-    
-
-    
+    "Festival": "祭典",
+    "FesPower": "祭典战力",
+    "XPower": "X战力",
+    "FestivalBomb": "烟花",
 }

@@ -138,7 +138,17 @@ terms_jp_en = {
     "サメライド": "Shark",
     "サメ": "Shark",
     "ナイスダマ": "NiceBall",
-
+    "フェス": "Festival",
+    "フェスパワー": "FesPower",
+    "Xパワー": "XPower",
+    "ハナビダム": "FireworksBomb",
+    "ハナビ": "FireworksBomb",
+    "サイドオーダー": "SideOrder",
+    "ナワバリ": "Nawabari",
+    "スプラッシュボム": "SplaBomb",
+    "スパッタリー": "Spattari",
+    "スパッタリーヒュー": "SpattariHiu",
+    "ビーコン": "Beacon",
 
     # Add more terms as needed
 }
@@ -235,13 +245,22 @@ terms_en_cn = {
     "SpaceShooter": "太空枪",
     "Carbon": "碳刷",
     "Moprin": "拖把桶",
-    "Trap": "地雷",
+    "Trap": "陷阱",
     "HopSonar": "声呐",
     "Missile": "导弹",
     "teioika": "帝王鱿鱼",
     "Shark": "鲨鱼",
     "NiceBall": "nice弹",
-    
+    "Festival": "祭典",
+    "FesPower": "祭典战力",
+    "XPower": "X战力",
+    "FestivalBomb": "烟花",
+    "SideOrder": "dlc",
+    "Nawabari": "涂地",
+    "SplaBomb": "三角雷",
+    "Spattari": "红牙",
+    "SpattariHiu": "蓝牙",
+    "Beacon": "信标",
 
-    
+
 }

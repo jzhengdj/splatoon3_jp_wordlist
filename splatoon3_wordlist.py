@@ -69,7 +69,7 @@ terms_jp_en = {
     "イグザミナー": "Examiner",
     "トーピード": "FishBomb",
     "キンメダイ": "ArtMuseum",
-    "たけ": "Bamboo",
+    # "たけ": "Bamboo", # too frequently wrongly replaced?
     "チャー": "Cha",
     "カバー": "Cover",
     "カバ": "Cover",

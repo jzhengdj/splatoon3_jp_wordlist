@@ -1,4 +1,5 @@
 terms_jp_en = {
+    "フグ": "Fugu",
     "ジム": "Jim", 
     "ボトル": "Bottle",
     "ゴーニーガロン": "52 Galon",
@@ -154,6 +155,7 @@ terms_jp_en = {
 }
 
 terms_en_cn = {
+    "Fugu": "富哥",
     "Jim": "电锯", 
     "Bottle": "香槟",
     "52 Galon": "52加仑",
